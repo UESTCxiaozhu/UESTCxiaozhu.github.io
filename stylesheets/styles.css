@@ -822,6 +822,9 @@ section #title .credits.right {
 
 section #tip {
   color: green;
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+  text-align: center;
 }
 
 @media print, screen and (max-width: 720px) {
